@@ -1,0 +1,1 @@
+# Here is small application which tests for some mathematical tests and conclude.
